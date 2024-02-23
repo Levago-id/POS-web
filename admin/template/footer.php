@@ -8,8 +8,8 @@
         <div class="container my-auto">
             <div class="copyright text-center my-auto">
                 <span>
-                    <?php echo date('Y');?> - Sistem Penjualan Barang Berbasis Web |
-                    BY <b><a href="https://levago.netlify.app" target="_blank">Levago</a></b>
+                    <?php echo date('Y');?> - Levapos |
+                    <b><a href="https://levago.netlify.app" target="_blank">Levago</a></b>
                 </span>
             </div>
         </div>
